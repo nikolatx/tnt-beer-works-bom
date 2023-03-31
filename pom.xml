@@ -11,7 +11,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.github.nikolatx</groupId>
+    <groupId>io.github.nikolatx</groupId>
     <artifactId>tnt-beer-works-bom</artifactId>
     <version>1.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
